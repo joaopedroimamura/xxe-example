@@ -1,0 +1,1 @@
+XXE vulnerabilities arise because the application's XML parsing library supports potentially dangerous XML features that the application does not need or intend to use. The easiest and most effective way to prevent XXE attack is to disable those features.
